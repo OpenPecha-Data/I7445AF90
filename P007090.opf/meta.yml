@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD105795
   title: སྨན་གསོ་འཕྲོད་བསྟེན་སྐོར་གྱི་ཤེས་བྱ།
-  volume: ''
+  volume:
+    3d19c7c809194ce5b33c833d812eb868:
+      image_group_id: I1PD105797
+      title: Volume 1 of sman gso 'phrod bsten skor gyi shes bya
+      volume_number: 1
+      total_pages: 142
   author: ''
+ebook_metadata:
+  title: སྨན་གསོ་འཕྲོད་བསྟེན་སྐོར་གྱི་ཤེས་བྱ།
+  author: ''
+  sku: P007090
+  cover: cover.jpg
+  layers:
+  - pagination
